@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="info_title">How use?</string>
+    <string name="info_text">This app is for creating and saving your text notes.\nTo create a note - click on the round button with the plus icon.\nTo edit a note - select your note from the list and click on it.\nTo delete a note - select it and make a long click on it until it is deleted.</string>
+</resources>
